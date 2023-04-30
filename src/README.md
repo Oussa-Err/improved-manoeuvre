@@ -1,5 +1,5 @@
 # table of contents
-[components](../../my-app1/src/)
+[components](#components)
 
 
 ## components
@@ -10,7 +10,8 @@
         - article
         - brand
         - index.js
-    containers
+
+### containers
         - features
         - blog
         - header
