@@ -1,9 +1,9 @@
 # table of contents
-[components](#components)
+- [components](#components)
+- [containers](#containers)
 
 
 ## components
-    - components
         - feature
         - navbar
         - cta
