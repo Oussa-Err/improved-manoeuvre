@@ -8,7 +8,6 @@
     flex: 1;
     justify-content: flex-start;
     align-items: center;
-
     margin-right: 2rem;
 }
 
@@ -22,7 +21,11 @@
     flex: 1;
     display: flex;
     align-items: flex-start;
-    justify-content: flex-end;
+    justify-content: center;
+}
+
+.gpt3__possibility-container h4:last-child {
+    color: var(--color-subtext);
 }
 
 .gpt3__possibility-container h4 {
@@ -43,9 +46,6 @@
     margin: 1rem 0 1rem 0;
 }
 
-.gpt3__possibility-container h4:last-child {
-    color: var(--color-subtext);
-}
 
 .gpt3__possibility-container p {
     font-family: var(--font-family);
@@ -61,7 +61,11 @@
         flex-direction: column;
     }
 
+    .gpt3__possibility-image {
+        margin: 1rem 0;
+    }
+
     .gpt3__possibility-container {
-        font-size: 20px;
+        margin-top: 2rem;
     }
 }

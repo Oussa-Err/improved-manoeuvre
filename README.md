@@ -1,12 +1,14 @@
 <center>
 
-# Still in progress
+# in progress
 
 </center>
 
-# GPT-talk3
+<embed src='gpt-3-website-photo.png' alt='screenshot'/> 
 
-A web application that utilizes OpenAI's GPT (Generative Pre-trained Transformer) language model to generate text based on user input.
+# Modern UI/UX GPT-3
+
+Creation of Modern UX/UI Website
 
 ## Table of Contents
 
@@ -30,12 +32,12 @@ A web application that utilizes OpenAI's GPT (Generative Pre-trained Transformer
 - CSS (Cascading Style Sheets)
 - JavaScript
 - React.js framework
-- OpenAI GPT API
 
 Utilizing React's component-based architecture, this web app delivers a dynamic and interactive user experience. Additionally, we've leveraged containerization technology to enhance scalability and maintainability.
 
 
 ## RoadMap
+
     - components        - containers    
         - feature           - features
         - cta               - blog 
@@ -44,12 +46,6 @@ Utilizing React's component-based architecture, this web app delivers a dynamic 
         - brand             - possibility
         - index.js          - whatGPT3
     
-
-## Usage
-
-- Users can visit the GPT WebApp website and enter a text prompt in the input box.
-- The GPT API analyzes the prompt and generates a text output in the output box.
-- Users can adjust the parameters and select which GPT model to use, and generate new text.
 
 ## Contributing
 
