@@ -1,5 +1,3 @@
-<img src='./gpt-3-website-photo.png' alt='screenshot'/>
-
 # Modern UI/UX GPT-3
 
 Creation of Modern UX/UI Website
