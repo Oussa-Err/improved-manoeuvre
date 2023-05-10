@@ -1,4 +1,4 @@
-# Modern UI/UX GPT-3
+# Modern UI GPT-3
 
 Creation of Modern UX/UI Website
 
