@@ -1,10 +1,4 @@
-<center>
-
-# in progress
-
-</center>
-
-<embed src='gpt-3-website-photo.png' alt='screenshot'/> 
+<img src='./gpt-3-website-photo.png' alt='screenshot'/>
 
 # Modern UI/UX GPT-3
 
@@ -12,40 +6,17 @@ Creation of Modern UX/UI Website
 
 ## Table of Contents
 
-- [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-## Features
-
-- User-friendly interface
-- Input box for user to enter text prompt
-- Output box to display generated text
-- Ability to save and share generated text
 
 ## Technologies Used
 
 - HTML (Hypertext Markup Language)
 - CSS (Cascading Style Sheets)
 - JavaScript
-- React.js framework
-
-Utilizing React's component-based architecture, this web app delivers a dynamic and interactive user experience. Additionally, we've leveraged containerization technology to enhance scalability and maintainability.
-
-
-## RoadMap
-
-    - components        - containers    
-        - feature           - features
-        - cta               - blog 
-        - navbar            - header
-        - article           - footer
-        - brand             - possibility
-        - index.js          - whatGPT3
-    
+- React.js
 
 ## Contributing
 
