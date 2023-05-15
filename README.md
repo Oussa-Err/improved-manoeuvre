@@ -38,6 +38,5 @@ The GPT WebApp is licensed under the MIT License.
 
 ## Contact
 
-- Website: in progress
 - GitHub Repository: https://github.com/Oussa-Err/improved-manoeuvre
 - email:    mustachgata@gmail.com
