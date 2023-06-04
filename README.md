@@ -13,10 +13,8 @@ Creation of Modern UX/UI Website
 
 ## Technologies Used
 
-- HTML (Hypertext Markup Language)
 - CSS (Cascading Style Sheets)
-- JavaScript
-- React.js
+- React.js (CRA)
 
 ## Contributing
 
