@@ -91,6 +91,7 @@
     background-color: var(--color-footer);
     border-radius: 5px;
     box-shadow: 0 0 5 rgb(0, 0, 0, 0.2);
+    min-width: 252px
 }
 
 .gpt3__navbar-menu_container p {
