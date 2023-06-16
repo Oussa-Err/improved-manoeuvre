@@ -1,6 +1,5 @@
 # Modern UI GPT-3
-
---> https://venerable-axolotl-985d41.netlify.app/
+---> https://gpt3project1.netlify.app/
 
 Creation of Modern UX/UI Website
 
