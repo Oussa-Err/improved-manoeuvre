@@ -7,11 +7,11 @@ Creation of Modern UX/UI Website
 
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Technologies Used
 
+- HTML (hypertext markup language)
 - CSS (Cascading Style Sheets)
 - React.js (CRA)
 
@@ -28,12 +28,8 @@ if you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-## License
-
-The GPT WebApp is licensed under the MIT License.
-
 ## Contact
 
 - GitHub Repository: https://github.com/Oussa-Err/improved-manoeuvre
 - email:    mustachgata@gmail.com
+- twitter: https://twitter.com/MedErraoui
