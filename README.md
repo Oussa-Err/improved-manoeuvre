@@ -1,5 +1,6 @@
 # Modern UI GPT-3
 ---> https://gpt3project1.netlify.app/
+[]('gpt-3-website-photo.png')
 
 Creation of Modern UX/UI Website
 
@@ -30,6 +31,5 @@ if you have a suggestion that would make this better, please fork the repo and c
 
 ## Contact
 
-- GitHub Repository: https://github.com/Oussa-Err/improved-manoeuvre
 - email:    mustachgata@gmail.com
 - twitter: https://twitter.com/MedErraoui
