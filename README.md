@@ -1,9 +1,7 @@
 # Modern UI GPT-3
 ---> https://gpt3project1.netlify.app/
 
-<div style="text-align:center">
-  ![](gpt-3-website-photo.png)
-</div>
+![](gpt-3-website-photo.png)
 
 Creation of Modern UX/UI Website
 
