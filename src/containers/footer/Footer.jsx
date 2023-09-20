@@ -37,8 +37,7 @@ function Footer () {
         <div className='gpt3__footer-container_div'>
           <h4>Get in touch</h4>
           <ul>
-            <li>Rabat</li>
-            <li>065-155-1085</li>
+            <li>Rabat - Morocco</li>
             <li>mustachgata@gmail.com</li>
           </ul>
         </div>
