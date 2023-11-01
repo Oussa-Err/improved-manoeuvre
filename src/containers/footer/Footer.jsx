@@ -43,7 +43,7 @@ function Footer () {
         </div>
       </div>
       <div className='gpt3__footer-copyright'>
-        <div>© 2023&nbsp;<span className='footer_err'><a  href="https://github.com/oussa-err" target='_blank'>Err.</a></span></div>
+        <div>© 2023&nbsp;<span className='footer_err'><a  href="https://github.com/oussa-err" rel="noreferrer" target='_blank'>Err.</a></span></div>
       </div>
     </div>
   )
